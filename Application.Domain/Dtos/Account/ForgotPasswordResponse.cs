@@ -4,5 +4,6 @@ namespace Core.Application.Dtos.Account
 {
     public class ForgotPasswordResponse : CommonsProperties
     {
+
     }
 }
